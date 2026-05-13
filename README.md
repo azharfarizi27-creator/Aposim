@@ -87,5 +87,3 @@ Proyek ini masih dapat dikembangkan lebih lanjut, baik dari sisi fitur, keamanan
 Wassalamu’alaikum warahmatullahi wabarakatuh.
 
 
-berikut link github
-https://github.com/AzharEiii/Aposim.git
