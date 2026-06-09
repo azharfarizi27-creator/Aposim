@@ -1,6 +1,6 @@
-# 🧾 Aplikasi Point Of Sale (POS) + Inventory Management
+#  Aplikasi Point Of Sale (POS) + Inventory Management
 
-## 📌 Kata Pengantar
+##  Kata Pengantar
 Assalamu’alaikum warahmatullahi wabarakatuh.
 
 Sebelumnya, saya mengucapkan **terima kasih yang sebesar-besarnya kepada Teh Sintia** yang telah mengajarkan dan membimbing kami dalam mempelajari **bahasa pemrograman C# fundamental**.  
@@ -8,7 +8,7 @@ Saya sebagai salah satu murid Teh Sintia mengucapkan terima kasih yang sebesar-b
 
 ---
 
-## 📖 Deskripsi Proyek
+##  Deskripsi Proyek
 Proyek yang saya ambil dalam pengembangan C# ini berjudul:
 
 **Aplikasi Point Of Sale (POS) + Inventory Management**
@@ -25,9 +25,9 @@ Aplikasi ini juga:
 
 ---
 
-## 🔐 Role & Fitur Aplikasi
+##  Role & Fitur Aplikasi
 
-### 👤 Admin
+###  Admin
 Admin memiliki akses penuh terhadap sistem, dengan fitur:
 - CRUD User (Admin, Kasir, Manajer)
 - CRUD Customer
@@ -37,14 +37,14 @@ Admin memiliki akses penuh terhadap sistem, dengan fitur:
 
 ---
 
-### 🧑‍💼 Kasir
+###  Kasir
 Kasir memiliki fitur utama:
 - Sistem penjualan yang **mudah digunakan**
 - Proses transaksi yang cepat dan efisien
 
 ---
 
-### 📊 Manajer
+###  Manajer
 Manajer memiliki fitur monitoring dan laporan:
 - Laporan penjualan **hari ini**
 - Laporan penjualan **bulanan**
@@ -54,7 +54,7 @@ Manajer memiliki fitur monitoring dan laporan:
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### 🔹 Framework & Library
 - Guna UI
@@ -70,7 +70,7 @@ Manajer memiliki fitur monitoring dan laporan:
 
 ---
 
-## 🚀 Tujuan Pengembangan
+##  Tujuan Pengembangan
 Aplikasi ini dikembangkan sebagai:
 - Media pembelajaran C# Fundamental
 - Proyek latihan pengembangan aplikasi desktop
@@ -83,7 +83,7 @@ Proyek ini masih dapat dikembangkan lebih lanjut, baik dari sisi fitur, keamanan
 
 ---
 
-**Terima kasih telah mengunjungi repository ini 🙏**  
+**Terima kasih telah mengunjungi repository ini **  
 Wassalamu’alaikum warahmatullahi wabarakatuh.
 
 
